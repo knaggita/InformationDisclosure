@@ -62,12 +62,11 @@ Below are the specifics of the repository files in correspondence to the paper s
 If you find this work useful in your research, please cite our paper:
 
 ```bibtex
-@article{avrim2026revealpos,
+@misc{blum2026revealingpositivenegativerole,
 	title        = {{Revealing Positive and Negative Role Models to Help People Make Good Decisions}},
-	author       = {Avrim Blum and Keziah Naggita and Matthew Walter and Jingyan Wang},
+	author       = {Avrim Blum and Keziah Naggita and Matthew R. Walter and Jingyan Wang},
 	year         = 2026,
-	url          = {https://},
-	note         = {}
+	url          = {https://arxiv.org/abs/2603.02495},
 }
 ```
 
